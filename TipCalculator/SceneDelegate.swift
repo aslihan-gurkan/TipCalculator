@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  DesignTest
+//  TipCalculator
 //
 //  Created by Aslıhan Gürkan on 20.06.2023.
 //

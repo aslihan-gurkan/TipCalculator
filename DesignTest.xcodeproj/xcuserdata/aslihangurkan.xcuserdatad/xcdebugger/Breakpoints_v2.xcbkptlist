@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "800EF30B-33A3-4710-AF07-3FB011757537"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C0C8CF0-61F5-4BAF-A9F7-BDCD20B3FFEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/View/TipPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F674A121-A327-4521-82C4-CF8444D5554A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "calculateTipPercent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F674A121-A327-4521-82C4-CF8444D5554A - 7d0db8e64e85f5ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "2596">
+               </Location>
+               <Location
+                  uuid = "F674A121-A327-4521-82C4-CF8444D5554A - 7d0db8e64e85f5ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "2548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7867DBD1-4C51-4E28-B9FB-3CFECF0A256A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/View/TipPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7867DBD1-4C51-4E28-B9FB-3CFECF0A256A - a6fb744259bb0992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.TipPicker.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/View/TipPicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "7867DBD1-4C51-4E28-B9FB-3CFECF0A256A - a6fb744259bb0992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.TipPicker.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/View/TipPicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72DCEA9F-E580-492B-BBC4-AFCD2E9A93A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "calculateTipPercent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72DCEA9F-E580-492B-BBC4-AFCD2E9A93A9 - 7d0db8e64e85f342"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "5968">
+               </Location>
+               <Location
+                  uuid = "72DCEA9F-E580-492B-BBC4-AFCD2E9A93A9 - 7d0db8e64e85f342"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "6260">
+               </Location>
+               <Location
+                  uuid = "72DCEA9F-E580-492B-BBC4-AFCD2E9A93A9 - 7d0db8e64e85f38c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "6436">
+               </Location>
+               <Location
+                  uuid = "72DCEA9F-E580-492B-BBC4-AFCD2E9A93A9 - 7d0db8e64e85f3ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "6308">
+               </Location>
+               <Location
+                  uuid = "72DCEA9F-E580-492B-BBC4-AFCD2E9A93A9 - 7d0db8e64e85f3ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.ViewController.calculateTipPercent() -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "6560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E314124-8A50-42FD-9510-839B2F550F84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalculator/View/PeoplePicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E314124-8A50-42FD-9510-839B2F550F84 - a1df3f67790bf3e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.PeoplePicker.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/View/PeoplePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "7E314124-8A50-42FD-9510-839B2F550F84 - a1df3f67790bf3e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DesignTest.PeoplePicker.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "DesignTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aslihangurkan/Desktop/iOS%20Pro%20Projects/DesignTest/TipCalculator/View/PeoplePicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
