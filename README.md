@@ -1,5 +1,5 @@
 # TipCalculator
 
-<img width="364" alt="TipCalculator" src="https://github.com/aslihan-gurkan/TipCalculator/assets/28388524/1ac62122-a54a-496d-9cd1-125a8bcf0831">
+![tipCalculator](https://github.com/aslihan-gurkan/TipCalculator/assets/28388524/21bdde71-bd97-4e8f-bd35-3704dacb6425)
 
-<img width="361" alt="TipCalculator1" src="https://github.com/aslihan-gurkan/TipCalculator/assets/28388524/1cf11959-124c-47fb-89fa-201449d686a9">
+![tipCaluclator1](https://github.com/aslihan-gurkan/TipCalculator/assets/28388524/824cbc55-b9b4-4254-8627-7d8ffca0c2bb)
